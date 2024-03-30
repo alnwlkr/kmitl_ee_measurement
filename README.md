@@ -1,5 +1,5 @@
 
-# Distance Measurement with Arduino
+# Distance Measurement with Arduino UNO
 
 ## Project Description
 This project is applying knowledge from INSTRUMENT AND MEASUREMENT subject at KMITL with Arduino Microcontroller together by using knowledge about how to measure distance using electronics device.
